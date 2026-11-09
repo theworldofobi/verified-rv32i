@@ -1,1 +1,11 @@
 notes.md
+
+.venv/
+__pycache__/
+sim_build/
+build/
+build_spike/
+*.elf
+*.o
+*.bin
+*.dis
